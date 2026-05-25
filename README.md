@@ -23,4 +23,4 @@ Bank System Management (Console Application)
 
 ## Certifications & Milestones
 
-* [Verify my Problem Solving & Algorithms - Level 3 Certificate (PDF)](certificate/certificate-of-completion-for-algorithms-problem-solving-level-3 (2).pdf)
+** [Verify my Problem Solving & Algorithms - Level 3 Certificate (PDF)]([./certificate/YOUR_FILE_NAME.pdf](https://github.com/mo-swe/Bank-Managment-System-cpp/blob/734ea6fec401af7e6a3e8c4aa83c7f09786a4fda/certificate/certificate-of-completion-for-algorithms-problem-solving-level-3%20(2).pdf))
