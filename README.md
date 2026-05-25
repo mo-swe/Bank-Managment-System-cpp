@@ -20,3 +20,7 @@ Bank System Management (Console Application)
 ​Clean Code: Used Enums and clear functional decomposition to ensure the code is readable and maintainable.
 ​💡 Key Takeaways
 ​Building this system refined my ability to handle complex logic flows. It transformed the "String Problems" that once seemed difficult into a powerful, real-world backend logic. This project marks a significant step in my journey toward software engineering excellence.
+
+## Certifications & Milestones
+
+* [Verify my Problem Solving & Algorithms - Level 3 Certificate (PDF)](certificate/certificate-of-completion-for-algorithms-problem-solving-level-3 (2).pdf)
