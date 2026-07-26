@@ -1,0 +1,15 @@
+# IDE files
+.vs/
+.vscode/
+
+# Build outputs & Directories
+Debug/
+x64/
+Project-.edb62bd7/
+
+# Compiled Binaries & Debug symbols
+*.exe
+*.obj
+*.ilk
+*.pdb
+*.vcxproj.user
