@@ -53,5 +53,5 @@ Building this extended system refined my ability to handle complex logic flows a
 
 This project represents the cumulative practical milestone for completing both **Algorithms & Problem Solving Level 3** and **Level 4**.
 
-* ** [Verify my Problem Solving & Algorithms - Level 3 Certificate (PDF)](certificate/certificate-of-completion-for-algorithms-problem-solving-level-3 (2).pdf)
+* ** [Verify my Problem Solving & Algorithms - Level 3 Certificate (PDF)](<./certificate/certificate-of-completion-for-algorithms-problem-solving-level-3 (2).pdf>)
 * ** [Verify my Problem Solving & Algorithms - Level 4 Certificate (PDF)](certificate/certificate-of-completion-for-08-algorithms-problem-solving-level-4.pdf)
